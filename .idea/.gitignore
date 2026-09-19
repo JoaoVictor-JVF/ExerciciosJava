@@ -8,3 +8,14 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# Ignorar arquivos e pastas do IntelliJ
+.idea/
+*.iml
+
+# Ignorar pasta de compilação
+/out/
+
+# Ignorar arquivos compilados
+*.class
+
